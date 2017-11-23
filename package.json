@@ -1,0 +1,14 @@
+{
+  "name": "Youtube_Downloader",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "electron-builder": "^19.45.4",
+    "ytdl": "",
+    "electron-packager": "^9.1.0"
+  }
+}
